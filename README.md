@@ -1,7 +1,6 @@
 # mvn-java-api-parent
 
 
-
 <div align="center">
 
 [![license apache2](https://img.shields.io/badge/license-apache2-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
@@ -29,7 +28,7 @@ Add as parent project in the `pom.xml` file:
 	<parent>
 		<groupId>de.alpharogroup</groupId>
 		<artifactId>mvn-java-api-parent</artifactId>
-		<version>1</version>
+		<version>1.1</version>
 		<relativePath></relativePath>
 	</parent>	
 ```
@@ -82,9 +81,16 @@ or over flattr: <a href="https://flattr.com/submit/auto?fid=r7vp62&url=https%3A%
 
 ## Credits
 
-|Travis CI|
-|:-:|
-|![Travis CI](https://travis-ci.com/images/logos/TravisCI-Full-Color.png)|
-|Many thanks to [Travis CI](https://travis-ci.org) for providing a free continuous integration service for open source projects.|
+|**Travis CI**|
+|     :---:      |
+|[![Travis CI](https://travis-ci.com/images/logos/TravisCI-Full-Color.png)](https://coveralls.io/github/lightblueseas/mvn-java-api-parent?branch=master)|
+|Special thanks to [Travis CI](https://travis-ci.org) for providing a free continuous integration service for open source projects|
+|     <img width=1000/>     |
+
+|**Nexus Sonatype repositories**|
+|     :---:      |
+|[![sonatype repository](https://img.shields.io/nexus/r/https/oss.sonatype.org/de.alpharogroup/mvn-java-api-parent.svg?style=for-the-badge)](https://oss.sonatype.org/index.html#nexus-search;gav~de.alpharogroup~mvn-java-api-parent~~~)|
+|Special thanks to [sonatype repository](https://www.sonatype.com) for providing a free maven repository service for open source projects|
+|     <img width=1000/>     |
 
 
