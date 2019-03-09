@@ -4,8 +4,8 @@
 <div align="center">
 
 [![license apache2](https://img.shields.io/badge/license-apache2-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
-[![Build Status](https://travis-ci.org/lightblueseas/mvn-java-api-parent.svg?branch=master)](https://travis-ci.org/lightblueseas/mvn-java-api-parent)
-[![Open Issues](https://img.shields.io/github/issues/lightblueseas/mvn-java-api-parent.svg?style=flat)](https://github.com/lightblueseas/mvn-java-api-parent/issues) 
+[![Build Status](https://travis-ci.org/astrapi69/mvn-java-api-parent.svg?branch=master)](https://travis-ci.org/astrapi69/mvn-java-api-parent)
+[![Open Issues](https://img.shields.io/github/issues/astrapi69/mvn-java-api-parent.svg?style=flat)](https://github.com/astrapi69/mvn-java-api-parent/issues) 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/de.alpharogroup/mvn-java-api-parent/badge.svg)](https://maven-badges.herokuapp.com/maven-central/de.alpharogroup/mvn-java-api-parent)
 
 </div>
@@ -48,14 +48,14 @@ For detailed information on versioning you can visit the [wiki page](https://git
 
 The source code for mvn-java-api-parent are on GitHub. Please feel free to fork and send pull requests!
 
-Create your own fork of [lightblueseas/mvn-java-api-parent/fork](https://github.com/lightblueseas/mvn-java-api-parent/fork)
+Create your own fork of [astrapi69/mvn-java-api-parent/fork](https://github.com/astrapi69/mvn-java-api-parent/fork)
 
-To share your changes, [submit a pull request](https://github.com/lightblueseas/mvn-java-api-parent/pull/new/develop).
+To share your changes, [submit a pull request](https://github.com/astrapi69/mvn-java-api-parent/pull/new/develop).
 
 ## Contacting the Developers
 
 Do not hesitate to contact the mvn-java-api-parent developers with your questions, concerns, comments, bug reports, or feature requests.
-- Feature requests, questions and bug reports can be reported at the [issues page](https://github.com/lightblueseas/mvn-java-api-parent/issues).
+- Feature requests, questions and bug reports can be reported at the [issues page](https://github.com/astrapi69/mvn-java-api-parent/issues).
 
 ## Note
 
@@ -75,7 +75,7 @@ or over ether with:
 
 0xaB6EaE10F352268B0CA672Dd6e999C86344D49D8
 
-or over flattr: <a href="https://flattr.com/submit/auto?fid=r7vp62&url=https%3A%2F%2Fgithub.com%2Flightblueseas%2Fmvn-java-api-parent" target="_blank">
+or over flattr: <a href="https://flattr.com/submit/auto?fid=r7vp62&url=https%3A%2F%2Fgithub.com%2Fastrapi69%2Fmvn-java-api-parent" target="_blank">
 <img src="http://button.flattr.com/flattr-badge-large.png" alt="Flattr this" title="Flattr this" border="0">
 </a>
 
@@ -83,7 +83,7 @@ or over flattr: <a href="https://flattr.com/submit/auto?fid=r7vp62&url=https%3A%
 
 |**Travis CI**|
 |     :---:      |
-|[![Travis CI](https://travis-ci.com/images/logos/TravisCI-Full-Color.png)](https://coveralls.io/github/lightblueseas/mvn-java-api-parent?branch=master)|
+|[![Travis CI](https://travis-ci.com/images/logos/TravisCI-Full-Color.png)](https://coveralls.io/github/astrapi69/mvn-java-api-parent?branch=master)|
 |Special thanks to [Travis CI](https://travis-ci.org) for providing a free continuous integration service for open source projects|
 |     <img width=1000/>     |
 
