@@ -11,7 +11,7 @@
 	</parent>
 
 	<artifactId>mvn-java-api-parent</artifactId>
-	<version>1.1</version>
+	<version>1.2-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<inceptionYear>2018</inceptionYear>
 
